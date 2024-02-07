@@ -1,3 +1,2 @@
-# Ntp-projekat 
-Tema je slasticarna 
-Sadrzi opcije kao sto su dodavanje recepta, dodavanje artikla, povratak na meni, pregled svih kupaca
+Konzolna aplikacija u cppu, na temu "slastičarna".
+Sadrzi opcije kao što su dodavanje recepta, dodavanje artikla, povratak na meni,te pregled svih kupaca.
